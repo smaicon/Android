@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Primeiro App</string>
+    <string name="app_iniciado" translatable="false">Welcome application starter</string>
+    <string name="app_encerrado" translatable="false">Bye ! Closed Application</string>
+    <string name="app_restaurado" translatable="false">Hi ! Application restored </string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiroApp</string>
+    <string name="app_iniciado" translatable="false">Bem Vindo App Iniciado</string>
+    <string name="app_encerrado" translatable="false">Tchau App encerrado</string>
+    <string name="app_restaurado" translatable="false">olá ! app restaurado</string>
+</resources>

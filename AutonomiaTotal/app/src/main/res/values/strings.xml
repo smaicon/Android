@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutonomiaTotal</string>
+    <string name="nomeCarro">Nome do Carro</string>
+    <string name="hint_nomeCarro">Digite o nome do carro</string>
+    <string name="kmPercorrida">Km Percorrida</string>
+    <string name="hint_kmPercorrida">Quantos km você percorreu?</string>
+    <string name="qtdCombustivel">Quantidade de Combustível</string>
+    <string name="hint_qtdCombustivel">Quanto combustível foi gasto?</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar Dados</string>
+</resources>
